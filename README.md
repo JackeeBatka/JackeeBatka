@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JackeeBatka
 - 👀 I’m interested in Programming, linux, servers, web development
 - 🌱 I’m currently learning C++, JS, PHP, LDAP
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web/server backend, basic C++ projects
 - 📫 How to reach me Discord: jackeelol, IG: mentally.unstable.garfield
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: im doing stupid stuff like puting binary-text editor to a vape
