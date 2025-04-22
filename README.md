@@ -5,7 +5,7 @@
 - 📫 How to reach me Discord: jackeelol, IG: mentally.unstable.garfield
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: CSS affects men slightly more often... google it
-- are you interested into not dying while coding? then try Monster energy
+- are you interested into not dying while coding? then try Monster energy!
 
 <!---
 JackeeBatka/JackeeBatka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
